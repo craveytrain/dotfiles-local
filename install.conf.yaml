@@ -7,3 +7,4 @@
 
 - link:
     ~/.aws/config: aws/config
+    ~/.gitconfig_local: git/gitconfig_local
