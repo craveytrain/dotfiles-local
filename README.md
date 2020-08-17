@@ -9,8 +9,16 @@ These are my local (per system) overrides for my dotfiles.
 git clone -q https://github.com/craveytrain/dotfiles-local.git .dotfiles-local
 
 # Set the correct branch for the context
-cd ./dotfiles-local
+cd .dotfiles-local
+git checkout <context_branch>
 
 # Install
 ./install
+```
+
+# Context branches
+
+```
+expedia
+personal
 ```
