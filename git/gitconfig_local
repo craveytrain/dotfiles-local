@@ -3,3 +3,5 @@
 [user]
   email = mcravey@expedia.com
   name = Mike Cravey
+[hub]
+	host = github.expedia.biz
